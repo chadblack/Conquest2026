@@ -1,0 +1,84 @@
+site_name: HILA/LAC 361 Nation and Its Discontents
+site_url: https://chadblack.net/361S2026/
+site_author: Chad Black
+site_description: A chad_black production
+
+# Copyright
+copyright: Copyright &copy; 2026 Chad Black 
+
+theme:
+    custom_dir: docs/overrides
+    favicon: img/favicon.png
+    features:
+      - navigation.tabs
+#      - navigation.tabs.sticky
+      - navigation.expand
+      
+
+    name: 'material'
+    palette:
+
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black 
+      accent: blue
+      toggle:
+        icon: material/brightness-3
+        name: Switch to light mode
+
+# Extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - footnotes
+  # - attr_list
+  # - pymdownx.arithmatex:
+  #    generic: true
+  - pymdownx.superfences
+  - pymdownx.details
+  # - pymdownx.magiclink
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - def_list
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - roamlinks 
+  - mermaid2
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://unpkg.com/mermaid/dist/mermaid.min.js 
+
+nav:
+  - Home: index.md
+  - Syllabus:
+    - Course Info: syllabus.md  
+    - Assignments: assignments.md
+    - Calendar: calendar.md
+
+  - Resources: 
+    - How to write a precis and memo: resources/how to write a precis and memo.md
+    - Approaches to making notes: resources/an approach to making notes.md
+    - Bibliography of Latin American sport: resources/bibliography of latin american sport history.md
+
