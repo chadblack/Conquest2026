@@ -1,5 +1,5 @@
-site_name: HILA/LAC 361 Nation and Its Discontents
-site_url: https://chadblack.net/361S2026/
+site_name: HILA/LAC 464 The Conquest of Spanish America
+site_url: https://chadblack.net/Conquest2026/
 site_author: Chad Black
 site_description: A chad_black production
 
@@ -80,5 +80,4 @@ nav:
   - Resources: 
     - How to write a precis and memo: resources/how to write a precis and memo.md
     - Approaches to making notes: resources/an approach to making notes.md
-    - Bibliography of Latin American sport: resources/bibliography of latin american sport history.md
 
