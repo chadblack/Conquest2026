@@ -49,10 +49,13 @@ Tuesday, February 3, 2026
 
 **Read:**  
 
+* Karatani Kojin. 2014. *The Structures of World History: From Modes of Production to Modes of Exchange*. Trans. by Michael K. Bourdaghs. Duke University Press. Pp. 5-14 and 20-25.
+
 Thursday, February 5, 2026  
 
 **Read:**  
 
+* Karatani Kojin. 2014. *The Structures of World History: From Modes of Production to Modes of Exchange*. Trans. by Michael K. Bourdaghs. Duke University Press. Pp. 35-56.
 ## Week 4: Mesoamerica 
 
 Tuesday, February 10, 2026
