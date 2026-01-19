@@ -76,7 +76,7 @@ Thursday, February 19, 2026
 **Read:**  
 
 
-## Week 6: The Andes
+## Week 6: Andes
 
 Tuesday, February 24, 2026  
 
@@ -87,7 +87,7 @@ Thursday, February 26, 2026
 
 **Read:**  
 
-## Week 7: Variety
+## Week 7: Andes
 
 Tuesday, March 3, 2026
 
@@ -121,7 +121,7 @@ Tuesday, March 24, 2026
 
 Thursday, March 26, 2026  
 
-## Week 11: 
+## Week 11: Columbus
 
 Tuesday, March 31, 2026
 
@@ -150,7 +150,7 @@ Tuesday, April 14, 2026
 
 Thursday, April 16, 2026
 
-## Week 14: 
+## Week 14: Extending Conquest
 
 Tuesday, April 21, 2026
 
@@ -160,7 +160,7 @@ Thursday, April 23, 2026
 
 **Read:**   
 
-## Week 15: 
+## Week 15: A New Order of Things
 
 Tuesday, April 28, 2026
 
