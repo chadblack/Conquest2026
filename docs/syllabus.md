@@ -2,7 +2,7 @@
 title: Course Info 
 ---
 
-### Modern Latin America: Nation and its Discontents
+### The Spanish Conquest  
 
 HILA/LAC 464    
 TR 9:45-11:00     
