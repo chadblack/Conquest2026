@@ -71,10 +71,12 @@ Thursday, February 12, 2026
 ## Week 5: Mesoamerica
 
 Tuesday, February 17, 2026
+
 **Read:**  
 
 
 Thursday, February 19, 2026
+
 **Read:**  
 
 
@@ -142,6 +144,7 @@ Tuesday, April 7, 2026
 
 
 Thursday, April 9, 2026
+
 **Read:**  
 
 ## Week 13: Runa
