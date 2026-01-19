@@ -2,59 +2,67 @@
 title: Assignments
 ---
 
-Your grade in this course is based on four assignments:
+## Readings
 
-### Reading Memos. (25%)
+Students are not required to purchase any texts for this course. All readings are available either through the university library (linked on the calendar page), or on Canvas under the files section. Even though our readings are digital, I highly suggest that you make paper copies, mark them up, and take notes as you read. You **are required to read** the assigned texts before each class meeting.
 
-Students must write a research memo for the day’s reading. Instructions for how to write a research memo are [here](rhttps://chadblack.net/2023SPORT/resources/how%20to%20write%20a%20precis%20and%20memo/). The purpose of the research memo is to habituate you to thinking historiographically and synthetically about the content across the semester.
+## Grading
 
-!!! tip "Reading and Note-taking Matter"
-    [Note-taking](https://chadblack.net/2023SPORT/resources/an%20approach%20to%20making%20notes/) is a skill that you cannot take for granted. This semester, you'll be asked to think by writing often. Taking notes on what you read and synthesizing information into new knowledge is thinking through writing.  
+This course uses a somewhat uncommon approach to to assessment known as Specifications Grading. You have **four** potential assignments, each of which you must successfully complete before moving on to the next one. You will be assessed on each as satisfactory or unsatisfactory. Once you have demonstrated master of the standard for the first assignment, you may move on to the next one for the next deadline. But, the catch is that there are also only **four** opportunities to turn in work. So, if you get an unsatisfactory, you must redo that assignment at the next due date before you can move on. There is one extra opportunity on the last due date to turn in an extra assignment.
 
-### Mexican Sportsman Paper. (20%)
+**To pass this class, you must successfully complete two assignments and attend all classes (with no more than two absences). The +/- of your letter grade will be determined by a combination of a self evaluation and my evaluation of your participation in class.**
 
-Students will write a paper on the culture of sport in the American Colony in Mexico using the _Mexican Sportsman_ newspaper from the 1890s. Issues of the paper from September 1896 to June 1897 are available [here](https://www.dropbox.com/sh/rjsiwpctza7p94l/AAAF6vR9T3tJ26uadvs3Pxlua?dl=0) . 
+Beyond that, if you....  
+Successfully complete all four levels: A- to A+  
+Successfully complete three levels: B- to B+  
+Successfully complete two levels: C- to C+  
+Successfully complete zero or one, or are chronically absent: F
 
-!!! info  "The Mexican Sportsman"  
-    The *Sportsman* was published in both English and Spanish in Mexico City, Mexico, and includes coverage of bicycling, baseball, boxing, and other sports that do not begin with a 'b.' 
+## Requirements for All Assignments (If you don't do this, you get zero credit)
 
-### Book Review. (20%)
+1. Assignments be only your own work (without the aid of AI/Generative AI/chatbots/LLMs or plagiarism).
+2. Assignments must demonstrate completeness (all required items submitted and questions answered adequately with required evidence).
+3. Assignments must demonstrate professionalism in writing quality and presentation (clear organization, no sentence fragments or run-ons, no more than **five errors** per 250 words, with proper citations).
 
-Each student will write a critical book analysis on *Playing America's Game: Baseball, Latinos, and the Color Line* by Adrian Burgos, Jr.
+**Proofreading tips to give you the best chance of passing:**
 
-!!! success "A Good Review"
-    How should you approach writing a book review? The first step is actively read the text. Highlight, review, make synthetic notes. Write a précis paragraph for each chapter. Write a research memo from your notes. Use the chapter structure to guide the structure of your review. Focus on one or two central themes.
+1. Let at least one night’s sleep come between writing and proofreading.
+2. Leave yourself plenty of time to proofread.
+3. Proofread with a hard copy of your writing, not just on the computer or phone screen. Errors are just easier to see when printed on paper.
+4. Read aloud as you proofread. If something sounds strange, it’s worth revisiting.
 
-### Final Essay. (20%)
+You may only submit assignments on the submission dates. If you get an assignment rejected (and you very well may) then you’ll need to get it right on the next submission date. After one mulligan, you'll lose your chance at an A. We will be practicing the assigned skills in class liberally before the due dates, but I would also encourage you to meet with me if you have any doubts along the way.
 
-Students will write a final essay based on a prompt provided by the professor, and due during the final exam period. This essay will need citations, and will challenge the student to synthesize the course as a whole.
+Our in-class activities will include things like writing précis and research memos, reacting to readings, working through primary texts together, responding to film, etc. In order to do these activities, you must come to class having already done the reading. This is paramount, and inescapable for a college-level history major.
 
-!!! tip "Use All Those Well-Made Notes"
-    If you follow [recommendations](https://chadblack.net/2023SPORT/resources/an%20approach%20to%20making%20notes/) on making notes this semester, you will find this final essay much easier to write at a much higher level. The hard work of synthesizing information into new knowledge, and then communicating it months later, is much easier with notes.
+## Assignment Upload **Dates**
 
-### Self-Evaluation and Engagement. (15%)
+First:  
+Second:  
+Third:  
+Fourth/Fifth:  
+
+## Assignments  
+
+1. Benchmark Assignment 1:   
+2. Benchmark Assignment 2:  
+3. Benchmark Assignment 3:  
+4. Benchmark Assignment 4:  
+
+Historians largely operate though texts, be they the textual remains of the past preserved in archives, contemporary theory, or historiographic development over time. Our work this semester will engage this full array of texts, and you will practice reading, thinking, researching, writing, etc. like a historian.
+
+### Self-Evaluation and Class Engagement.
 
 Students will write a self-evaluation at the end of the semester evaluating their own engagement with the class. What does engagement include? Engaging with the class and its materials can take many forms, including but not limited to:
 
-- **Preparation:** you've read the material before coming to class.  
-- **Focus:** you've avoided distractions in class.  
-- **Presence:** you've actively participated in small-group and full-class discussions.  
+- **Preparation:** you've read the material before coming to class.
+- **Focus:** you've avoided distractions in class.
+- **Presence:** you've actively participated in small-group and full-class discussions.
 - **Inquiry:** you've asked questions in and out of class on things you don't understand, or that you're curious about.
 - **Specificity:** you've used specific ideas from the readings and discussions.
 - **Connection:** you've made connections between readings and discussions, and across weeks during the semester.[^1]
 
-
-Students must keep track of each class they miss during the course of the semester for this evaluation.
-
-!!! warning "Keep Track of Your Attendance"
-    For your self-evaluation, you will need to list each class meeting that you missed by date. Please keep track of them. Better yet, don't miss class. If you do have to miss class, give me a quick email heads up.
-  
-
-[^1]: Thanks to [Mark Sample](https://twitter.com/samplereality/status/1564016056208949249) and [Shawn Graham](https://shawngraham.github.io/hist1900/2.Assessment/Assessment/#engagement) for helping reframe my sense of "participation."
-
-
-
-
+I will provide a form for each student to fill out at the end on the semester reflecting on their engagement and the course as a whole.
 
 
 
