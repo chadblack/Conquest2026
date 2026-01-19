@@ -4,7 +4,7 @@
 
 For our final benchmark, students will analyze the Mexican film *499* using the theoretical and historical lens that we have developed this semester. The film articulates a continuity between Mexico's present and the forces unleashed by Cortes's march from the sea in 1520. This is a challenging task, and we're not looking exactly for traditional film criticism or for the type of "historical critique" that tires to identify the authentic and inauthentic in the film.
 
-What pasts does the film recruit into the present? What implicit or explicit claims does it make as to the meaning of nation, state, and capital within the frame of its national cinema? Return to the opening weeks of the semester, and see if you can identify those theoretical threads at work in the film. You may utilize any work we've read this semester as part of your evaluation, but are again restricted to assigned texts. 
+Some questions to consider-- What pasts does the film recruit into the present? Does it represent a view of the past more in line with Hegel or Benjamin? What implicit or explicit claims does it make as to the meaning of nation, state, and capital within the frame of its national cinema? Return to the opening weeks of the semester, and see if you can identify those theoretical threads at work in the film. You may utilize any work we've read this semester as part of your evaluation, but are again restricted to assigned texts. 
 
 Use prose, with paragraphs, as if in a traditional essay.
 
