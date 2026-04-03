@@ -1,6 +1,6 @@
 # Benchmark 3: Burying the White Gods
 
-**DUE: APRIL 10**
+**DUE: APRIL 17**
 
 Historians work with an enormous variety of information, integrating people, events, broad patterns, theoretical arguments, and more. In this assignment, you will work backwards from a finished piece of historical work to recreate the difficult syntheses at the root of historical research.
 
