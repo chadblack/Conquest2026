@@ -47,7 +47,7 @@ Fourth/Fifth:  **MAY 13**
 1. [Benchmark Assignment 1: 1491](https://chadblack.net/Conquest2026/benchmark1/)  
 2. [Benchmark Assignment 2: Nahuatl Views of the Conquest](https://chadblack.net/Conquest2026/benchmark2/)
 3. [Benchmark Assignment 3:  Burying the White Gods](https://chadblack.net/Conquest2026/benchmark3/)
-4. [Benchmark Assignment 4:  499](https://chadblack.net/Conquest2026/benchmark1/) 
+4. [Benchmark Assignment 4:  499](https://chadblack.net/Conquest2026/benchmark4/) 
 
 Historians largely operate though texts, be they the textual remains of the past preserved in archives, contemporary theory, or historiographic development over time. Our work this semester will engage this full array of texts, and you will practice reading, thinking, researching, writing, etc. like a historian.
 
