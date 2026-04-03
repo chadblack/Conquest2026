@@ -39,7 +39,7 @@ Our in-class activities will include things like writing précis and research me
 
 First:  **FEBRUARY 15**   
 Second:  **MARCH 20**   
-Third:  **APRIL 10**   
+Third:  **APRIL 17**   
 Fourth/Fifth:  **MAY 13**   
 
 ## Assignments  
